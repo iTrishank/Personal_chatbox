@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Personal_chatbox/static/css/main.0afb268b.chunk.css",
+    "main.js": "/Personal_chatbox/static/js/main.36b785ff.chunk.js",
+    "main.js.map": "/Personal_chatbox/static/js/main.36b785ff.chunk.js.map",
+    "runtime-main.js": "/Personal_chatbox/static/js/runtime-main.c047b531.js",
+    "runtime-main.js.map": "/Personal_chatbox/static/js/runtime-main.c047b531.js.map",
+    "static/js/2.bf250779.chunk.js": "/Personal_chatbox/static/js/2.bf250779.chunk.js",
+    "static/js/2.bf250779.chunk.js.map": "/Personal_chatbox/static/js/2.bf250779.chunk.js.map",
+    "index.html": "/Personal_chatbox/index.html",
+    "precache-manifest.2d79da513d504e307125515995d9ea91.js": "/Personal_chatbox/precache-manifest.2d79da513d504e307125515995d9ea91.js",
+    "service-worker.js": "/Personal_chatbox/service-worker.js",
+    "static/css/main.0afb268b.chunk.css.map": "/Personal_chatbox/static/css/main.0afb268b.chunk.css.map",
+    "static/media/header.css": "/Personal_chatbox/static/media/code.5483b3de.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c047b531.js",
+    "static/js/2.bf250779.chunk.js",
+    "static/css/main.0afb268b.chunk.css",
+    "static/js/main.36b785ff.chunk.js"
+  ]
+}
