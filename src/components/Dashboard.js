@@ -1,7 +1,7 @@
 import React, { createContext, useReducer } from 'react';
 import { Row, Col, Alert, Button } from 'react-bootstrap';
 import ChatList from './ChatList';
-import ChatBox from './ChatBox'; 
+
 import ChatBoxWithBoot from './ChatBoxWithBoot';
  
 export const ChooseContext = createContext();
