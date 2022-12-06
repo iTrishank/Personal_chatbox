@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `ChatBoxWithBoot`
 
+![](images/chatbox.gif)
+
 ![](images/one.png)
 
 ![](images/two.png)
